@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://maczethan-lang.github.io/mivisa/sitemap.xml
